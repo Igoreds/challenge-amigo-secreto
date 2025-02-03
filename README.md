@@ -1,8 +1,8 @@
-#Amigo Secreto#
+# Amigo Secreto       
 
 Este projeto é um sistema de sorteio de amigo secreto, desenvolvido utilizando HTML, CSS e JavaScript.
 
-#Funcionalidades#
+# Funcionalidades
 
 Adicionar Participantes: O usuário pode inserir nomes na lista de participantes.
 
@@ -14,7 +14,7 @@ Exibir Resultados: O sorteio gera uma lista indicando quem é o amigo secreto de
 
 Reiniciar Sorteio: Após o sorteio, os dados são apagados para que um novo sorteio possa ser realizado.
 
-#Como Usar#
+# Como Usar 
 
 Digite um nome no campo de entrada e clique em "Adicionar".
 
